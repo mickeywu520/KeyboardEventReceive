@@ -1,0 +1,11 @@
+C:\Users\Mickey\source\repos\KeyboardEventReceive\KeyboardEventReceive\bin\Debug\KeyboardEventReceive.exe.config
+C:\Users\Mickey\source\repos\KeyboardEventReceive\KeyboardEventReceive\bin\Debug\KeyboardEventReceive.exe
+C:\Users\Mickey\source\repos\KeyboardEventReceive\KeyboardEventReceive\bin\Debug\KeyboardEventReceive.pdb
+C:\Users\Mickey\source\repos\KeyboardEventReceive\KeyboardEventReceive\obj\Debug\KeyboardEventReceive.csproj.AssemblyReference.cache
+C:\Users\Mickey\source\repos\KeyboardEventReceive\KeyboardEventReceive\obj\Debug\KeyboardEventReceive.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mickey\source\repos\KeyboardEventReceive\KeyboardEventReceive\obj\Debug\KeyboardEventReceive.Form1.resources
+C:\Users\Mickey\source\repos\KeyboardEventReceive\KeyboardEventReceive\obj\Debug\KeyboardEventReceive.Properties.Resources.resources
+C:\Users\Mickey\source\repos\KeyboardEventReceive\KeyboardEventReceive\obj\Debug\KeyboardEventReceive.csproj.GenerateResource.cache
+C:\Users\Mickey\source\repos\KeyboardEventReceive\KeyboardEventReceive\obj\Debug\KeyboardEventReceive.csproj.CoreCompileInputs.cache
+C:\Users\Mickey\source\repos\KeyboardEventReceive\KeyboardEventReceive\obj\Debug\KeyboardEventReceive.exe
+C:\Users\Mickey\source\repos\KeyboardEventReceive\KeyboardEventReceive\obj\Debug\KeyboardEventReceive.pdb
